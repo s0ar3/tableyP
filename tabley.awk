@@ -2,7 +2,7 @@
 
 function arr_length(given_arr,i,size) {
     for (i in given_arr) {
-        size ++
+        size++
     }
     return size;
 }
@@ -15,9 +15,7 @@ BEGIN {
 }
 
 function find_highest_salary(input, salary, type) {
-
     n=asort(salary,sort_salary);
-
     size=arr_length(sort_salary,1,0);
 
     for (i in input) {
