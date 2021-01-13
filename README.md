@@ -7,6 +7,7 @@ Much more can be done with this approach. This was just an example of what we ca
 Table used:
 
 | Jack   | Singh  | 9857532312 | jack@gmail.com   | M | hr  | 2000 |
+|--------|--------|------------|------------------|---|-----|------|
 | Jane   | Kaur   | 9837432312 | jane@gmail.com   | F | hr  | 1800 |
 | Eva    | Chabra | 8827232115 | eva@gmail.com    | F | lgs | 2100 |
 | Amit   | Sharma | 9911887766 | amit@yahoo.com   | M | lgs | 2350 |
