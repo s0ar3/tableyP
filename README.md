@@ -5,7 +5,7 @@ Finding the highest value within the categories in the table using strings and s
 Much more can be done with this approach. This was just an example of what we can do with AWK and tables.
 
 Table used:
-|------------------------------------------------------------------|
+
 | FirstN | LastN  |   Phone    | Email Address    |Sex|Deprt|Salary|
 |--------|--------|------------|------------------|---|-----|------|
 | Jack   | Singh  | 9857532312 | jack@gmail.com   | M | hr  | 2000 |
