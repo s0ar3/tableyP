@@ -1,4 +1,4 @@
-# tableParser
+# tableyP
 
 Finding the highest value within the categories in the table using strings and sorting after which the highest value is displayed. 
 
